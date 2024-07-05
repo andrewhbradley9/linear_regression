@@ -1,4 +1,4 @@
-#Linear Regression
-  Implementation for Linear Regression
-  Includes boiler plate for creating data and plots
-  Availiabe as juypter notebook or python file
+# Linear Regression
+Implementation for Linear Regression  
+Includes boilerplate for creating data and plots  
+Available as Jupyter notebook or Python file
